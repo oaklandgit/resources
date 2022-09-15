@@ -9,4 +9,4 @@ A list of useful libraries and links
 
 ### UX Tools
 
-* [Opportunity Solution Tree](https://www.producttalk.org/opportunity-solution-tree/)
+* [Opportunity Solution Tree](https://www.producttalk.org/opportunity-solution-tree/) - great organizational and brainstorming framework for mapping product features back to desired outcomes.
